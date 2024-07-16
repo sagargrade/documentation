@@ -2,9 +2,9 @@
 
 | Topic Language | Topic Name                      | Topic Reference                                       |
 | -------------- | ------------------------------- | ----------------------------------------------------- |
-| Chrome Console | Copt Object from Chrome Console | [Reference](#topic---copt-object-from-chrome-console) |
+| Chrome Console | Copy Object from Chrome Console | [Reference](#topic---copt-object-from-chrome-console) |
 
-## Topic - Copt Object from Chrome Console
+## Topic - Copy Object from Chrome Console
 
 1. Right-click an object in Chrome's console and select `Store as Global Variable` from the context menu. It will return something like `temp1` as the variable name.
 2. Chrome also has a `copy()` method, so `copy(temp1)` in the console should copy that object to your clipboard.
