@@ -2,7 +2,7 @@
 
 | Tool/Language  | Topic Name                      | Topic Reference                                       |
 | -------------- | ------------------------------- | ----------------------------------------------------- |
-| Chrome Console | Copy Object from Chrome Console | [Reference](#topic---copt-object-from-chrome-console) |
+| Chrome Console | Copy Object from Chrome Console | [Reference](#topic---copy-object-from-chrome-console) |
 
 ## Topic - Copy Object from Chrome Console
 
