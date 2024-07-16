@@ -1,6 +1,6 @@
 # How To
 
-| Topic Language | Topic Name                      | Topic Reference                                       |
+| Tool/Language  | Topic Name                      | Topic Reference                                       |
 | -------------- | ------------------------------- | ----------------------------------------------------- |
 | Chrome Console | Copy Object from Chrome Console | [Reference](#topic---copt-object-from-chrome-console) |
 
